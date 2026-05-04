@@ -169,19 +169,19 @@ Simanta/
 ##  Tangkapan Layar
 
 ### Teacher Console
-<!-- Ganti path di bawah dengan screenshot Anda -->
-<!-- ![Teacher Console - Main View](screenshots/teacher_main.png) -->
-<!-- ![Teacher Console - Fullscreen View](screenshots/teacher_fullscreen.png) -->
-<!-- ![Teacher Console - Chat](screenshots/teacher_chat.png) -->
+#### Teacher Console - Main View
+<img src=screenshots/teacher_main.png>
+
+#### Teacher Console - Chat View
+<img src=screenshots/teacher_chat.png>
 
 ### Student Agent
-<!-- Ganti path di bawah dengan screenshot Anda -->
-<!-- ![Student Agent - Panel](screenshots/student_panel.png) -->
-<!-- ![Student Agent - Lock Screen](screenshots/student_locked.png) -->
+#### Student Agent - Panel View
+<img src=screenshots/student_panel.png>
 
 ### Installer
-<!-- Ganti path di bawah dengan screenshot Anda -->
-<!-- ![Installer - Role Selection](screenshots/installer_role.png) -->
+#### Installer - Role Selection
+<img src=screenshots/installer_role.png>
 
 ---
 
